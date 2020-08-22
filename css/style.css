@@ -6,10 +6,10 @@ body {
   height: 40vh;
 }
 .bg-1 {
-  background: #478f65;
-  background: -moz-linear-gradient(left, #478f65 0%, #8dc21f 100%);
-  background: -webkit-linear-gradient(left, #478f65 0%, #8dc21f 100%);
-  background: linear-gradient(to right, #478f65 0%, #8dc21f 100%);
+  background: #23b0c7;
+  background: -moz-linear-gradient(left, #23b0c7 0%, #8dc21f 100%);
+  background: -webkit-linear-gradient(left, #23b0c7 0%, #8dc21f 100%);
+  background: linear-gradient(to right, #23b0c7 0%, #8dc21f 100%);
 }
 .pab-100px {
   padding-bottom: 100px;
@@ -28,7 +28,7 @@ body {
   right: 6rem;
 }
 .text-main-color {
-  color: #005bab;
+  color: #0af;
 }
 .border-color {
   border-color: #fff;
@@ -37,13 +37,13 @@ body {
   transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 .hover-border-main-color:hover {
-  border-color: #005bab;
+  border-color: #0af;
 }
 .hover-text-main-color {
   transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 .hover-text-main-color:hover {
-  color: #005bab;
+  color: #0af;
 }
 .cursor-default {
   cursor: default;
@@ -59,7 +59,7 @@ body {
 .content .fake-link {
   text-decoration: none;
   transition: color 0.15s ease-in;
-  color: #005bab;
+  color: #0af;
 }
 .content a:hover,
 .content .fake-link:hover {
